@@ -1,0 +1,70 @@
+{
+  "project_info": {
+    "project_number": "781881325456",
+    "project_id": "nikaeva-1",
+    "storage_bucket": "nikaeva-1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:781881325456:android:7df74b473c90a1c29e2515",
+        "android_client_info": {
+          "package_name": "kz.nikaeva.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "781881325456-31hqofgmn5mmhgdopggvnr3qdg4koa07.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "kz.nikaeva.app",
+            "certificate_hash": "0013cd284cf5a76dcbc0be709d61235de521cba4"
+          }
+        },
+        {
+          "client_id": "781881325456-5rc3urqlbu2pn86bnklmditru9fsk7dq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "kz.nikaeva.app",
+            "certificate_hash": "4a54eeafe309f075b2106bbbac71b48693cb2110"
+          }
+        },
+        {
+          "client_id": "781881325456-rh12e6adesfnju30paiktf0slfurmo3o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "kz.nikaeva.app",
+            "certificate_hash": "f8b5c39877c3d89030536ab9ac959f84d112df2c"
+          }
+        },
+        {
+          "client_id": "781881325456-mkgf6f3tm247v8f6u3ueh982hq9bun3j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBH4cZBp4NIbYSZCkRutZkcwTaDmKoixw8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "781881325456-mkgf6f3tm247v8f6u3ueh982hq9bun3j.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "781881325456-3g61vq3hakmos6349csetpshujlmnors.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "kz.nikaeva.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
